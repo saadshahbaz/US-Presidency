@@ -45,7 +45,7 @@ For each provided file I calculate the minimum number of people that Mr. Biden w
 <br> `32 0 0 20 `
 <br> `32 0 0 20` 
 <br> `64 0 0 41 `
-<br> Sample *Output **1: 50**
+<br> Sample Output **1: 50**
 
 ## Running the code
 
@@ -57,5 +57,5 @@ For each provided file I calculate the minimum number of people that Mr. Biden w
 - `Othertest.txt` also contains numerous tests with solutions infront of them. 
 
 
-
+<br><br><br>
 #### All rights reserved. Please do not copy any of this code for any assignment or quiz. Me or anyone asssociated to this project is not responsible for any plagiarism or other accusations.
