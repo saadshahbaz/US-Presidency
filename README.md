@@ -29,18 +29,20 @@ For each provided file I calculate the minimum number of people that Mr. Biden w
 
 
 <br>
+
 <br>Sample Input **2**:
 <br>`3`
 <br>`7 100 200 200`
 <br>`8 100 300 200`
 <br>`9 100 400 200`
-<br>Sample *Output **2: -1**
+<br>Sample Output **2: -1**
 
 <br>
-<br>Sample Input **3:**
-<br>`3`
-<br>`32 0 0 20`
-<br>`32 0 0 20`
-<br>`64 0 0 41`
-<br>Sample *Output **3: 32**
-<br>
+
+
+<br> Sample Input **3**:
+<br> `3` 
+<br> `32 0 0 20 `
+<br> `32 0 0 20` 
+<br> `64 0 0 41 `
+<br> Sample *Output **1: 50**
