@@ -2,9 +2,9 @@
 
 ## Objective:
 The goal of this project was to find an  efficient algorithm to know the minimum number of people that Mr. Biden needs to convince in order to secure the presidency of the United States of America when the information regarding each state is given. Particularly, for each State, the few information regarding 
- - i) The expected number of people who are projected to vote for Mr. Biden
- - ii) The expected number of people who are projected to vote for Mr. Trump
- - iii) The number of people who have not made a voting decision yet.
+1. The expected number of people who are projected to vote for Mr. Biden
+2. The expected number of people who are projected to vote for Mr. Trump
+3. The number of people who have not made a voting decision yet.
  
 The technical description of the polls makes it clear that the numbers of the first two categories are not likely to change because they are votes from people with long-time roots in a particular political party. On the other hand, people in the third category are the ones who expressed no preference and did not lean towards
 either of the major parties.
