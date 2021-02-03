@@ -46,3 +46,16 @@ For each provided file I calculate the minimum number of people that Mr. Biden w
 <br> `32 0 0 20` 
 <br> `64 0 0 41 `
 <br> Sample *Output **1: 50**
+
+## Running the code
+
+- Download the files to your computer and on line 265 add the path to the file. 
+- Sample files can be found in the data folder above or you can add any file you want with the syntax defined above
+
+- The code where file path needs to be added looks like: `File myFile= new File("/Users/macuk/Downloads/open_case_1.txt");`
+- Solutions are also posted in the data section.
+- `Othertest.txt` also contains numerous tests with solutions infront of them. 
+
+
+
+#### All rights reserved. Please do not copy any of this code for any assignment or quiz. Me or anyone asssociated to this project is not responsible for any plagiarism or other accusations.
